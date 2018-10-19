@@ -2,7 +2,7 @@
 VirtualBox projects
 
 -----
-## 우분투 데스크탑 OS 로그인시 루트 관리자로 로그인하는 방법
+## How to login of root account on Ubuntu
     1. open terminal
     2. active the root account
         $ sudo passwd root
