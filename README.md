@@ -13,6 +13,11 @@ VirtualBox projects
             autologin-user=root
             .....
     4. save and reboot
+
+## How to mount and use exFAT drive on Ubuntu Linux
+
+    $ sudo apt install -y exfat-fuse exfat-utils
+
 -----
 ## References  
 > [Install the Latest VirtualBox on Ubuntu 18.04 LTS](https://websiteforstudents.com/install-the-latest-virtualbox-on-ubuntu-18-04-lts/ "Install the Latest VirtualBox on Ubuntu 18.04 LTS")  
