@@ -83,6 +83,12 @@ VirtualBox projects
                          └─mmcblk0p5 swap                     1012M
 
     steven@steven-Inspiron-910:~$
+    
+    * Probably an installation-issue which can be resolved with re-installation?! - this would concern package udisks2
+        
+        $ sudo apt install --reinstall udisks2
+
+
 
 -----
 ## References  
