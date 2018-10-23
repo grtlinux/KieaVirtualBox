@@ -96,4 +96,5 @@ VirtualBox projects
 > [How To Install VirtualBox on Ubuntu 18.04](https://linuxize.com/post/how-to-install-virtualbox-on-ubuntu-18-04/ "How To Install VirtualBox on Ubuntu 18.04") - install OK!!  
 > [How to Mount and Use exFAT Drive on Ubuntu Linux (Quick Tip)](https://www.youtube.com "YouTube Search: 'ubuntu 18.04 mount exfat'")  
 > [Ubuntu 18.04 Hangul input key setting](http://progtrend.blogspot.com/2018/06/ubuntu-1804-uim.html "Ubuntu 18.04 Hangul input key setting")  
+> [원격로그인(SSH) 접속](https://github.com/jeonghwan-kim/ssh-settings "원격로그인(SSH) 접속")  
 ...
