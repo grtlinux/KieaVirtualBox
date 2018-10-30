@@ -89,6 +89,19 @@ VirtualBox projects
         $ sudo apt install --reinstall udisks2
 
 
+## Oracle VirtualBox 비디오 녹화
+
+	Oracle VM VirtualBox 관리자
+	VM 선택 > 설정 > 디스플레이 > 비디오 캡쳐 > [v] 비디오 캡쳐 사용하기
+		파일경로: /home/kiea/VB/VB/VB_win7_64_H/VB_win7_64_H.webm
+		프레임 크기: 1600 x 1200(4:3)
+		프레임 레이트: 25 fps
+		품질: 1250 kbps
+			동영상 5분당 약 45 MB
+		확장기능: [ ] Record Audio
+		화면: [v] 화면1
+
+## 임시
 
 -----
 ## References  
