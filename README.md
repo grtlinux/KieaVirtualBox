@@ -115,5 +115,5 @@ VirtualBox projects
 > [How to Mount and Use exFAT Drive on Ubuntu Linux (Quick Tip)](https://www.youtube.com "YouTube Search: 'ubuntu 18.04 mount exfat'")  
 > [Ubuntu 18.04 Hangul input key setting](http://progtrend.blogspot.com/2018/06/ubuntu-1804-uim.html "Ubuntu 18.04 Hangul input key setting")  
 > [원격로그인(SSH) 접속](https://github.com/jeonghwan-kim/ssh-settings "원격로그인(SSH) 접속")  
-> [Kazam](http://lucy123.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%B6%94%EC%B2%9C-%EB%8F%99%EC%98%81%EC%83%81-%EB%85%B9%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Kazam "Kazam")  
+> [리눅스 동양상 녹화 Kazam](http://lucy123.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%B6%94%EC%B2%9C-%EB%8F%99%EC%98%81%EC%83%81-%EB%85%B9%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Kazam "Kazam")  
 ...
