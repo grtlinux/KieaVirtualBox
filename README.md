@@ -124,4 +124,5 @@ VirtualBox projects
 > [리눅스 동양상 녹화 Kazam](http://lucy123.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%B6%94%EC%B2%9C-%EB%8F%99%EC%98%81%EC%83%81-%EB%85%B9%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Kazam "Kazam")  
 > [System Monitoring on Ubuntu 18.04 Linux with Conky](https://linuxconfig.org/system-monitoring-on-ubuntu-18-04-linux-with-conky "System Monitoring on Ubuntu 18.04 Linux with Conky")  
 > [Top 10 Best Gnome desktop extensions for Ubuntu 18.04 Bionic Beaver Linux](https://linuxconfig.org/best-gnome-desktop-extensions-for-ubuntu-18-04-bionic-beaver-linux "Top 10 Best Gnome desktop extensions for Ubuntu 18.04 Bionic Beaver Linux")  
+> [자바 7,8,9,10,11,12](https://jdk.java.net/ "jdk.java.net")  
 ...
